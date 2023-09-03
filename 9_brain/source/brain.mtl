@@ -1,0 +1,12 @@
+# Blender 3.6.2 MTL File: 'brain.blend'
+# www.blender.org
+
+newmtl BRAIN_TEXTURE_blinn2
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.748401 0.236088 0.295050
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
